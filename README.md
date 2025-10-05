@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I'm Faza Maf'Alul Afif 👋👋
 
 <!--
 **fazamafif/fazamafif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
